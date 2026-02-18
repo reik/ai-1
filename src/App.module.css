@@ -16,3 +16,11 @@
   width: 100%;
   max-width: 520px;
 }
+
+.protectedStack {
+  width: 100%;
+}
+
+.pageHeader {
+  text-align: left;
+}
